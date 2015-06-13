@@ -6,4 +6,4 @@ Install NodeJS and NPM
 Requirements
 ------------
 
-Install NodeJS and NPm
+Ubuntu 14.04
