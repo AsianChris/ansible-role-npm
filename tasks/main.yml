@@ -18,6 +18,6 @@
   when: debianSource.changed
 
 - name: Install NodeJS 4.x
-  apt: pkg=nodejs='{{ node_version }}' state=present
+  apt: pkg=nodejs state=present
   become: yes
   become_method: sudo
